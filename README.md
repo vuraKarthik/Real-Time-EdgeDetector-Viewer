@@ -4,7 +4,7 @@ This project is an Android application that demonstrates real-time image process
 
 ## 🎥 Demo
 
-![Edge Detection in Action](https://github.com/vuraKarthik/Real-Time-EdgeDetector-Viewer/blob/main/Images/demo.gif?raw=true)
+<img src="https://github.com/vuraKarthik/Real-Time-EdgeDetector-Viewer/blob/main/Images/demo.gif?raw=true" alt="Edge Detection in Action" width="400" />
 
 ## Features Implemented
 
@@ -15,13 +15,19 @@ This project is an Android application that demonstrates real-time image process
 - **View Toggling**: A button allows the user to switch between the raw camera feed and the processed edge-detected output.
 - **Performance Monitoring**: An on-screen overlay displays the current Frames Per Second (FPS) and the processing time for each frame in milliseconds.
   
-![Android App Raw Camera Feed](https://github.com/vuraKarthik/Real-Time-EdgeDetector-Viewer/blob/main/Images/Raw_camera.png?raw=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/vuraKarthik/Real-Time-EdgeDetector-Viewer/blob/main/Images/Raw_camera.png?raw=true" alt="Android App Raw Camera Feed" width="400" /><br/>
+      <em>Raw camera feed from the Android app</em>
+    </td>
+    <td>
+      <img src="https://github.com/vuraKarthik/Real-Time-EdgeDetector-Viewer/blob/main/Images/EdgeDetected_image.png?raw=true" alt="Android App Edge Detected Output" width="400" /><br/>
+      <em>Edge detected output from the Android app</em>
+    </td>
+  </tr>
+</table>
 
-*Raw camera feed from the Android app*
-
-![Android App Edge Detected Output](https://github.com/vuraKarthik/Real-Time-EdgeDetector-Viewer/blob/main/Images/EdgeDetected_image.png?raw=true)
-
-*Edge detected output from the Android app*
 
 ### Web Viewer
 - **Static Frame Display**: A simple web page built with HTML and TypeScript that displays a sample processed frame.
