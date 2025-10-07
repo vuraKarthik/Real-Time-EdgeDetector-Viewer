@@ -4,7 +4,7 @@ This project is an Android application that demonstrates real-time image process
 
 ## 🎥 Demo
 
-<img src="https://github.com/vuraKarthik/Real-Time-EdgeDetector-Viewer/blob/main/Images/demo.gif?raw=true" alt="Edge Detection in Action" width="400" />
+<img src="https://github.com/vuraKarthik/Real-Time-EdgeDetector-Viewer/blob/main/Images/demo.gif?raw=true" alt="Edge Detection in Action" width="200" />
 
 ## Features Implemented
 
@@ -18,11 +18,11 @@ This project is an Android application that demonstrates real-time image process
 <table>
   <tr>
     <td>
-      <img src="https://github.com/vuraKarthik/Real-Time-EdgeDetector-Viewer/blob/main/Images/Raw_camera.png?raw=true" alt="Android App Raw Camera Feed" width="400" /><br/>
+      <img src="https://github.com/vuraKarthik/Real-Time-EdgeDetector-Viewer/blob/main/Images/Raw_camera.png?raw=true" alt="Android App Raw Camera Feed" width="200" /><br/>
       <em>Raw camera feed from the Android app</em>
     </td>
     <td>
-      <img src="https://github.com/vuraKarthik/Real-Time-EdgeDetector-Viewer/blob/main/Images/EdgeDetected_image.png?raw=true" alt="Android App Edge Detected Output" width="400" /><br/>
+      <img src="https://github.com/vuraKarthik/Real-Time-EdgeDetector-Viewer/blob/main/Images/EdgeDetected_image.png?raw=true" alt="Android App Edge Detected Output" width="200" /><br/>
       <em>Edge detected output from the Android app</em>
     </td>
   </tr>
