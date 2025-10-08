@@ -93,7 +93,7 @@ The project is split into two main components: the Android app and the web viewe
 3.  **View in Browser**:
     - Open the `web/index.html` file in any web browser.
 
-4.  **(Optional) Update the Static Image**:
+4.  **Update the Static Image**:
     - Run the Android app and check Logcat in Android Studio. Filter by the tag `Base64`.
     - Copy the entire Base64 string from a log message.
     - Paste the string into the `image.src` variable in `web/src/main.ts`.
